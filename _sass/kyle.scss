@@ -735,7 +735,7 @@ svg{
     padding: 4px 10px;
     transition: .25s all;
     color: #fff;
-    height: 35px;
+    height: 25px;
 }
 
 .next_section:hover{
@@ -749,6 +749,7 @@ svg{
     background-color: #00c853;
     padding: 10px;
     transition: .25s all;
+    height: 25px;
 }
 
 .next_section#html{
@@ -793,16 +794,15 @@ svg{
 }
 
 .next_section_meat p{
-    float: left;
     color: #fff;
     margin-bottom: 0px !important;
+    margin-right: 5px;
 }
 
 
 .next_section p{
     float: left;
     margin-bottom: 0px;
-    line-height: 30px;
     color: #fff;
 }
 
